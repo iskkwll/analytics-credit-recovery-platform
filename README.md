@@ -1,5 +1,7 @@
 # Analytics Recovery Platform
 
+![Dashboard Overview](screenshots/Page1_Desempenho_&_Carteira_Pt1.png)
+
 Plataforma analítica desenvolvida para consolidação, tratamento e visualização de indicadores operacionais e financeiros relacionados à gestão de carteiras, negociações e performance operacional.
 
 O projeto contempla todo o fluxo analítico, desde a preparação e transformação dos dados em SAS Studio até a construção da camada de consumo e visualização em Power BI.
